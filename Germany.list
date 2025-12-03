@@ -1,7 +1,10 @@
-DOMAIN-KEYWORD,bunq
-DOMAIN-KEYWORD,n26
-DOMAIN-KEYWORD,tech26
-DOMAIN-KEYWORD,number26
-DOMAIN-KEYWORD,bybit
-DOMAIN-KEYWORD,okx
-
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
